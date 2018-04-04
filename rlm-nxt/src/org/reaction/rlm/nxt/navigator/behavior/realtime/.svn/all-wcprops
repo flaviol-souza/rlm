@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/79/trunk/rlm-nxt/src/org/reaction/rlm/nxt/navigator/behavior/realtime
+END
+WalkRealTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/79/trunk/rlm-nxt/src/org/reaction/rlm/nxt/navigator/behavior/realtime/WalkRealTime.java
+END
+SendDataRealTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/64/trunk/rlm-nxt/src/org/reaction/rlm/nxt/navigator/behavior/realtime/SendDataRealTime.java
+END
+ObserverMotorRealTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/64/trunk/rlm-nxt/src/org/reaction/rlm/nxt/navigator/behavior/realtime/ObserverMotorRealTime.java
+END
+SonarCollectorRealTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/64/trunk/rlm-nxt/src/org/reaction/rlm/nxt/navigator/behavior/realtime/SonarCollectorRealTime.java
+END
