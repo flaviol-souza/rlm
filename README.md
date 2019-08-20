@@ -1,6 +1,6 @@
 ## IMPLEMENTAÇÃO DE UM ALGORITMO DE LOCALIZAÇÃO DE ROBÔS MÓVEIS
 ###### IMPLEMENTATION OF A THE LOCATION ALGORITHM TO MOBILE ROBOT
-#### Trabalho de Conclusão de Curso (TCC) de [Flavio Souza](https://flaviosouza.net) apresentado á UNIARA em Engenharia de Computação em 2012 (Orientador: Prof. Dr. Rodrigo Elias Bianchi)
+#### Trabalho de Conclusão de Curso (TCC) de [Flavio Souza](https://flaviosouza.net) apresentado a UNIARA para o curso de Engenharia de Computação em 2012 (Orientador: Prof. Dr. Rodrigo Elias Bianchi)
 
 Este é um projeto que implementa o algoritmo de Monte Carlo para localização de robôs moveis (NXT), utilizando um sonar. Os dados de mapeamento e localização são transmitidos, por bluetooth, a um computador que processa e renderiza os dados em um mapa. [Video ilustrativo.](https://www.youtube.com/watch?v=IEy9Dxg0TRc) 
 
@@ -8,11 +8,14 @@ Este é um projeto que implementa o algoritmo de Monte Carlo para localização 
 
 ## More Details
 Este projeto utilizou de kit Lego NXT 2.0, seu template de construção física esta detalhada em [http://nxtprograms.com](http://nxtprograms.com/NXT2/explorer/index.html) que utilizou dos recursos nativos do kit. 
+
+![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/modulos.png)
+
 O firware utilizado foi o leJOS, que dá suporte a linguagem Java, conforme o código disponibilizado. Com a leitura do ambiente, por um sonar, os dados são transmitidos, via bluetooth, para um computador que processa os dados e o rederiza-o. Neste modulo, do computador, também foi desenvolvido em Java.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-> Os detalhes, na integra, do projeto podem ser conferidos na dissertação do trabalho
+![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/monte-carlo.png)
+
+> Os detalhes, na integra, do projeto podem ser conferidos na [dissertação do trabalho](https://github.com/flaviol-souza/rlm/blob/master/tcc-flavio-souza-eng-computacao.pdf)
 
 ## Build With
 * Java
@@ -24,9 +27,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Author
-* Flavio Souza
-> Contatos [site](https://www.flaviosouza.net)
-** Rodrigo Bianchi
+* Flavio Souza [contatos](https://www.flaviosouza.net)
+** Rodrigo Bianchi _Orientador_ [contatos](https://www.flaviosouza.net)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
