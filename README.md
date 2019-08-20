@@ -12,7 +12,7 @@ O firware utilizado foi o leJOS, que dá suporte a linguagem Java, conforme o c�
 
 ![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/modulos.png)
 
-O robô faz apenas faz as aquisições dos dados, o processamento e a interpretação é feita no computador. Na ocasião, o NXT, não apresentava boa performance em multithreads. Com a interpretação dos dados, o computador passa sinais de controle ao robô. Mesmo em um formato modular, esta solução apresenta caracteristas autônoma. 
+O robô faz apenas faz as aquisições dos dados, o processamento e a interpretação é feita no computador. Na ocasião, o NXT, não apresentava boa performance em multithreads. Com a interpretação dos dados, o computador passa sinais de controle ao robô. Mesmo em um formato modular, esta solução apresenta caracteristas autônoma. O resultado do passo a passo de progreção e da convergência de localização por monte carlo é apresentado:
 
 ![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/monte-carlo.png)
 
@@ -24,12 +24,14 @@ O robô faz apenas faz as aquisições dos dados, o processamento e a interpreta
 
 ## Acknowledgments
 Agradeço imensamente ao meu pai, meu primeiro professor, que sempre me inspirou a buscar novos desafios.
+
 _A special acknowledgment to [Piotr Czekalski](http://www.piotrczekalski.pl) that helped me, via messages at 2012, to clarify some of the Implementation issues about my project. Wow, Piotr Czekalski, you are amazing. tks man!_
+
 Agradeço também ao Rodrigo Bianchi e ao Rodrigo Malara, que me apoiaram muito no devenvolver deste trabalho.
 
 ## Author
 * Flavio Souza [contatos](https://www.flaviosouza.net)
-** Rodrigo Bianchi _Orientador_ [contatos](https://www.flaviosouza.net)
+    * Rodrigo Bianchi _Orientador_ [contatos](https://www.flaviosouza.net)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
