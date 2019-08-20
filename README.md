@@ -8,10 +8,11 @@ Este é um projeto que implementa o algoritmo de Monte Carlo para localização 
 
 ## More Details
 Este projeto utilizou de kit Lego NXT 2.0, seu template de construção física esta detalhada em [http://nxtprograms.com](http://nxtprograms.com/NXT2/explorer/index.html) que utilizou dos recursos nativos do kit. 
+O firware utilizado foi o leJOS, que dá suporte a linguagem Java, conforme o código disponibilizado. Com a leitura do ambiente, por um sonar, os dados são transmitidos, via bluetooth, para um computador que processa os dados e o rederiza-o. Neste modulo, do computador, também foi desenvolvido em Java.
 
 ![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/modulos.png)
 
-O firware utilizado foi o leJOS, que dá suporte a linguagem Java, conforme o código disponibilizado. Com a leitura do ambiente, por um sonar, os dados são transmitidos, via bluetooth, para um computador que processa os dados e o rederiza-o. Neste modulo, do computador, também foi desenvolvido em Java.
+O robô faz apenas faz as aquisições dos dados, o processamento e a interpretação é feita no computador. Na ocasião, o NXT, não apresentava boa performance em multithreads. Com a interpretação dos dados, o computador passa sinais de controle ao robô. Mesmo em um formato modular, esta solução apresenta caracteristas autônoma. 
 
 ![alt text](https://github.com/flaviol-souza/rlm/blob/master/images/monte-carlo.png)
 
@@ -22,9 +23,9 @@ O firware utilizado foi o leJOS, que dá suporte a linguagem Java, conforme o c�
 * NXT 2.0
 
 ## Acknowledgments
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Agradeço imensamente ao meu pai, meu primeiro professor, que sempre me inspirou a buscar novos desafios.
+_A special acknowledgment to Piotr Czekalski that helped me, via messages at 2012, to clarify some of the Implementation issues about my project. Wow, Piotr Czekalski, you are amazing. tks man!_
+Agradeço também ao Rodrigo Bianchi e ao Rodrigo Malara, que me apoiaram muito no devenvolver deste trabalho.
 
 ## Author
 * Flavio Souza [contatos](https://www.flaviosouza.net)
