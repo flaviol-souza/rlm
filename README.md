@@ -24,7 +24,7 @@ O robô faz apenas faz as aquisições dos dados, o processamento e a interpreta
 
 ## Acknowledgments
 Agradeço imensamente ao meu pai, meu primeiro professor, que sempre me inspirou a buscar novos desafios.
-_A special acknowledgment to Piotr Czekalski that helped me, via messages at 2012, to clarify some of the Implementation issues about my project. Wow, Piotr Czekalski, you are amazing. tks man!_
+_A special acknowledgment to [Piotr Czekalski](http://www.piotrczekalski.pl) that helped me, via messages at 2012, to clarify some of the Implementation issues about my project. Wow, Piotr Czekalski, you are amazing. tks man!_
 Agradeço também ao Rodrigo Bianchi e ao Rodrigo Malara, que me apoiaram muito no devenvolver deste trabalho.
 
 ## Author
