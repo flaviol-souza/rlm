@@ -30,8 +30,8 @@ _A special acknowledgment to [Piotr Czekalski](http://www.piotrczekalski.pl) tha
 Agradeço também ao Rodrigo Bianchi e ao Rodrigo Malara, que me apoiaram muito no devenvolver deste trabalho.
 
 ## Author
-* Flavio Souza [contatos](https://www.flaviosouza.net)
-    * Rodrigo Bianchi _Orientador_ [mailto](mailto:bianchi@ifsp.edu.br)
+* Flavio Souza [e-mail](mailto:flavio.souza@ifsp.edu.br) ou [contatos](https://www.flaviosouza.net) 
+    * Rodrigo Bianchi (_Orientador_) [e-mail](mailto:bianchi@ifsp.edu.br)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
