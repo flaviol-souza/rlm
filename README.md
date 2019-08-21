@@ -31,7 +31,7 @@ Agradeço também ao Rodrigo Bianchi e ao Rodrigo Malara, que me apoiaram muito 
 
 ## Author
 * Flavio Souza [contatos](https://www.flaviosouza.net)
-    * Rodrigo Bianchi _Orientador_ [contatos](https://www.flaviosouza.net)
+    * Rodrigo Bianchi _Orientador_ [mailto](mailto:bianchi@ifsp.edu.br)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
